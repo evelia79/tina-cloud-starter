@@ -1,13 +1,8 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: Welcome to the Tina Starter
-    text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      `content/pages/home.md`, components from components/blocks, and puts them
-      all together in `pages/[filename].tsx`, all based on a config
-      `tina/config.tsx`.
+  - headline: Nhóm 5 - Welcome
+    text: ''
     actions:
       - label: Get Started
         type: button
@@ -56,6 +51,4 @@ blocks:
     color: primary
     _template: testimonial
 ---
-
-
 
